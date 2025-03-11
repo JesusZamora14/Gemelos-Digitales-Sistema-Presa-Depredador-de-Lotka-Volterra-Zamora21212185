@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Jesus '
+    family-names: Zamora Cervantes
+    email: l21212185@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JesusZamora14/Gemelos-Digitales-Sistema-Presa-Depredador-de-Lotka-Volterra-Zamora21212185
+url: >-
+  https://github.com/JesusZamora14/Gemelos-Digitales-Sistema-Presa-Depredador-de-Lotka-Volterra-Zamora21212185
+abstract: |-
+  Tecnológico Nacional de México
+     Instituto Tecnológico de Tijuana
+     Ingeniería Biomédica
+     Gemelos Digitales
+     Práctica 2 Sistema Presa-Depredador de Lotka Volterra
+keywords:
+  - Lotka Volterra
+  - Método de Heun
+  - Simulink
+  - 'Ajuste '
+license: BSD-2-Clause
+date-released: '2025-03-13'

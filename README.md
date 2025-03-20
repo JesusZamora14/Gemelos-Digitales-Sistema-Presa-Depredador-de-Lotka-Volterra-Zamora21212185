@@ -29,3 +29,5 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 
 [2]  A. Garfinkel, J. Shevtsov y Y. Guo, Modeling Life: The Mathematics of Biological Systems. Cham, Suiza: Springer, 2017, pp. 1-21.
 
+[3] E. G. Eferina, A. V. Korolkova, M. N. Gevorkyan, D. S. Kulyabov, y L. A. Sevastyanov, “One-step stochastic processes simulation software package,” Discrete and Continuous Models and Applied Computational Science, no. 3, pp. 46–59, 2014.
+

@@ -14,7 +14,7 @@ El experimento analiza cómo la población de fitoplancton crece exponencialment
 
 ## Objetivos específicos
 1. Formular e interpretar las ecuaciones diferenciales del modelo de Lotka-Volterra, identificando los términos que representan el crecimiento de la presa y la interacción con el depredador.
-2. Implementar en MATLAB la solución numérica del sistema de ecuaciones diferenciales, utilizando métodos adecuados como Euler o Heund para analizar la evolución de las poblaciones en el tiempo.
+2. Implementar en MATLAB la solución numérica del sistema de ecuaciones diferenciales, utilizando métodos adecuados como Euler y Heund para analizar la evolución de las poblaciones en el tiempo.
 3. Graficar las series de tiempo y el plano de fase del sistema presa-depredador, interpretando las oscilaciones y la estabilidad del sistema en función de los parámetros dados.
 4. Analizar el efecto de la variación de parámetros como la tasa de crecimiento de la presa y la eficiencia del depredador, para comprender su impacto en la dinámica poblacional.
 5. Comparar los resultados obtenidos con los principios teóricos del modelo, discutiendo las condiciones en las que el sistema alcanza el equilibrio o presenta oscilaciones indefinidas.
